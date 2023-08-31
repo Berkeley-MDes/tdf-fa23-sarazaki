@@ -4,11 +4,12 @@
 
 This week has been very exciting for me - from learning how to use Rhino to printing my very first 3D model. 
 
-![Week 1 Sketch](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d44daaf9-d85f-46c8-af93-25f5a9ec3b3b)
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Week 1 - 3D Phone Case 2" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d44daaf9-d85f-46c8-af93-25f5a9ec3b3b">  Week 1 Sketch |  <img width="1604" alt="Week 1 - 3D Phone Case 3" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d518e9a9-be27-49ce-a5ae-660e5f7d6893"> Week 1 Product|
 
 
-![Week 1 - 3D Phone Case 1](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d518e9a9-be27-49ce-a5ae-660e5f7d6893)
-
+Photo Dump
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Week 1 - 3D Phone Case 2" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/33216942-6914-42b9-a4df-5b15a26e1a56">  3D Phone Stand |  <img width="1604" alt="Week 1 - 3D Phone Case 3" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/f1e4456f-94dd-4166-86a6-ce596bea1a4d">|<img width="1604" alt="Week 1 - 3D Phone Case 4" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/5f7facc4-7232-4cf6-a5b9-08f5abab8be8">|
