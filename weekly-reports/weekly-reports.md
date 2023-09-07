@@ -1,5 +1,11 @@
 # Sara Zaki's Weekly Reports
 
+## Week 2 (8/31 - 9/07)
+This week, I spent a  lot of time on Rhino and Grasshopper trying to learn more and work through some topics with which I've been struggling. I found some courses on Linkedin Learning which I took and watched the videos throughout the weekend. Some insights were gained, some confusions were made. Nevertheless, I picked up some new tricks along the way. I know it's not much but II just want to say that I have been practicing and I'm now getting used to the concept of parametric design using grasshopper. After trying a bunch of different things, I've learned how many of the components work, how to navigate the interface, manipulate parameters and how to "bake." Yay :)
+![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/410e8e93-71b5-40af-89a9-230be5b8b268)
+
+
+
 ## Week 1 (8/24 - 8/31)
 
 This week has been very exciting for me - from learning how to use Rhino to printing my very first 3D model. At first, I was just going to re-create the 3D phone stand from class, but then I thought I could create my own instead. The plan was to design a 3D stand for dancers, with a mechanical revolving top that uses motion tracking technology, which would make it easier for dancers to record their dance routines. But obviously, I was getting ahead of myself because there was no way I'd be able to create something like that, given my current skill set and level, in such a short amount of time. Nevertheless, it's the thought that counts :)
