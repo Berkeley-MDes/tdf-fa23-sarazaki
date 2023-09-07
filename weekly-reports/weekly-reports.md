@@ -1,7 +1,7 @@
 # Sara Zaki's Weekly Reports
 
 ## Week 2 (8/31 - 9/07)
-This week, I spent a  lot of time on Rhino and Grasshopper trying to learn more and work through some topics with which I've been struggling. I found some courses on Linkedin Learning which I took and watched the videos throughout the weekend. Some insights were gained, some confusions were made. Nevertheless, I picked up some new tricks along the way. I know it's not much but II just want to say that I have been practicing and I'm now getting used to the concept of parametric design using grasshopper. After trying a bunch of different things, I've learned how many of the components work, how to navigate the interface, manipulate parameters and how to "bake." Yay :)
+This week, I spent a  lot of time on Rhino and Grasshopper trying to learn more and work through some topics with which I've been struggling. I found some courses on Linkedin Learning which I took and watched the videos throughout the weekend. Some insights were gained, some confusions were made. Nevertheless, I picked up some new tricks along the way. I know it's not much but II just want to say that I have been practicing and I'm now getting used to the concept of parametric design using grasshopper. After trying a bunch of different things, I've learned how many of the components work, how to navigate the interface, manipulate parameters and how to "bake." Yay :) 
 ![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/410e8e93-71b5-40af-89a9-230be5b8b268)
 
 
