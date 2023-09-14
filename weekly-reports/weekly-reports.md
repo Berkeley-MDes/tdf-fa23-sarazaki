@@ -1,5 +1,6 @@
 # Sara Zaki's Weekly Reports
 
+
 ## Week 3 (9/07 - 9/14)
 What a week! This was by far the busiest week I've had this year, with all the Rhino/Grasshopper tutorials, presentations, readings, etc. This week, I learned so much about parametric design (I'm so proud of myself). I went from creating rectangles last week to generating some pretty cool parametric shapes (or we can call them "vases") using Grasshopper. Here are some of the models I created:
 
