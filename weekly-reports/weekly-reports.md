@@ -1,5 +1,33 @@
 # Sara Zaki's Weekly Reports
 
+## Week 3 (9/07 - 9/14)
+What a week! This was by far the busiest week I've had this year, with all the Rhino/Grasshopper tutorials, presentations, readings, etc. This week, I learned so much about parametric design (I'm so proud of myself). I went from creating rectangles last week to generating some pretty cool parametric shapes (or we can call them "vases") using Grasshopper. Here are some of the models I created:
+
+![Screenshot 2023-09-14 132624](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/959a0811-3a2a-4902-aabe-bdfa4174b8ee)
+
+This one was sort of a failed early version that I created. Turns out there were so many things wrong with my code, which Cody was kind enough to take a look at, and helped me fix it. Yay!
+
+These are the newer, improved versions of what I was trying to create:
+
+![Screenshot 2023-09-14 132816](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/941485ec-febf-42d3-ad92-c8730f810a19)
+![Screenshot 2023-09-14 132710](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d12401e5-305d-4312-a496-838c53c5f362)
+![Screenshot 2023-09-14 132655](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/f8a385ca-8dc2-4171-81bd-3ea9226bd796)
+
+At first, I tried to join the model, which was a mesh, with the existing cellphone stand, a brep, to sort of create a combinatioon of the two - it was supposed to be a cellphone stand with a mini vase popping out on top of it. But that was an epic fail - the conversion from brep to mesh really didn't work out. I even sought the assisstance of Jeff, who was super helpful and tried to help me figure it out. I was SO CLOSE (probably not). For the sake of time, I decided to improve upon the model I created from scratch and finally let the cellphne stand go :(
+
+Good news is, I was able to change the "vase" model from a constructed mesh to a brep, so now, I can join the vase with the cellphone stand dif I wish to, but I won't right now due to the time crunch. I can always try that again after the deadline. I'm glad to say I have achieved my goal -challenge completed! I declare this an axolotl-level challenge from which I have gloriously emerged victorious! ヾ(*´ ∇ `)ﾉ
+
+I think the reason why I ended up with a "vase" model was because I had to create a vessel for my Studio Foundations class and I couldn't get it out of my head. I just had to. And it turned out nicely, so, yay.
+So, to create this model, I began with a point, which I then turned into a line, which I then divided into several points (for flexibility). I added a range so I could adjust the number of points I had. Next was the circles, created from the points, connected to a seam and further divided into more points around each circle. Next, the pattern was generated using dispatch and weave, which created circles in the already existing circles, fed to a polyline component, lofted and capped. That's it! This took me the entire week (including the weekend) to create. Needless to say, I'm not disapointed. Last week, I felt quite intimidated when I saw the creations of my cohorts in class - they were so cool - and I thought I would never be able to, but now I can finally say I created something nice too!
+
+Here are shots of my Grasshopper file:
+![Screenshot 2023-09-14 132935](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/fa3771b8-6956-45f1-a6b1-4a40f731e981)
+![Screenshot 2023-09-14 132957](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/45020818-3c6f-4782-b4eb-d535f73fb4b1)
+![Screenshot 2023-09-14 133019](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/8ad473ba-0c54-4473-86aa-37507eeeb6e0)
+![Screenshot 2023-09-14 133035](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d6c62b27-612e-4cde-ae1c-9062af8617fd)
+
+
+
 ## Week 2 (8/31 - 9/07)
 This week, I spent a  lot of time on Rhino and Grasshopper trying to learn more and work through some topics with which I've been struggling. I found some courses on Linkedin Learning which I took and watched the videos throughout the weekend. Some insights were gained, some confusions were made. Nevertheless, I picked up some new tricks along the way. I know it's not much but II just want to say that I have been practicing and I'm now getting used to the concept of parametric design using grasshopper. After trying a bunch of different things, I've learned how many of the components work, how to navigate the interface, manipulate parameters and how to "bake." Yay :) 
 ![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/410e8e93-71b5-40af-89a9-230be5b8b268)
