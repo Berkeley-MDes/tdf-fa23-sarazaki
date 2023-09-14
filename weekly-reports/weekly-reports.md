@@ -27,6 +27,12 @@ Here are shots of my Grasshopper file:
 ![Screenshot 2023-09-14 133019](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/8ad473ba-0c54-4473-86aa-37507eeeb6e0)
 ![Screenshot 2023-09-14 133035](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d6c62b27-612e-4cde-ae1c-9062af8617fd)
 
+###Speculations:
+Our journey as a coohort in mastering 3D design tools is an ongoing process. While we've encountered challenges in understanding Rhino and Grasshopper, I believe perseverance will be our greatest asset. As we move forward, I consider exploring other complementary tools like Tinkercad, Blender, or even game engines like Unity, which are increasingly used for design visualization and interactivity. 
+
+A groundbreaking development in the 3D printing world caught my attention recently. Researchers at MIT have made significant progress in 3D printing with glass. They've developed a 3D printer capable of creating intricate glass structures, which has potential applications in architecture, optics, and even electronics.
+
+Here's a link to the article: [MIT's 3D Printing with Glass](https://www.ll.mit.edu/news/new-method-3d-prints-glass-low-temperatures)
 
 
 ## Week 2 (8/31 - 9/07)
