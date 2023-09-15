@@ -21,6 +21,8 @@ Good news is, I was able to change the "vase" model from a constructed mesh to a
 I think the reason why I ended up with a "vase" model was because I had to create a vessel for my Studio Foundations class and I couldn't get it out of my head. I just had to. And it turned out nicely, so, yay.
 So, to create this model, I began with a point, which I then turned into a line, which I then divided into several points (for flexibility). I added a range so I could adjust the number of points I had. Next was the circles, created from the points, connected to a seam and further divided into more points around each circle. Next, the pattern was generated using dispatch and weave, which created circles in the already existing circles, fed to a polyline component, lofted and capped. That's it! This took me the entire week (including the weekend) to create. Needless to say, I'm not disapointed. Last week, I felt quite intimidated when I saw the creations of my cohorts in class - they were so cool - and I thought I would never be able to, but now I can finally say I created something nice too!
 
+Here's a link to my video: [Sara's YouTube Video](https://youtu.be/CBZZ2_-XeWc)
+
 Here are shots of my Grasshopper file:
 ![Screenshot 2023-09-14 132935](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/fa3771b8-6956-45f1-a6b1-4a40f731e981)
 ![Screenshot 2023-09-14 132957](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/45020818-3c6f-4782-b4eb-d535f73fb4b1)
