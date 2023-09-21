@@ -10,6 +10,12 @@ The main task for the week was to connect my Photon2 to the internet. Not as cha
 
 ![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/99daf8c9-95a3-44af-b2b4-583cf4810536)
 
+Fast forward many hours, I was finally able to set it up correctly. I flashed the device using the Particle Device Doctor and then tried again. Since I was using Berkeley IoT in my home, I wasn't able to connect it to the wifi using that network because I needed the MAC address. So, I connected it to my mobile hotspot instead. It finally worked!!! I am so happy. Now my Photon2 is all set up and I'm ready to take on the next task for the week. Yayy!!
+
+### Speculations:
+
+After doing some research, I realized that Particle's Photon2 represents a significant step forward in the world of IoT (Internet of Things) development and connectivity. As we engage with this hardware platform, it's intriguing to contemplate its future trajectory. One possibility is that we'll see even more compact and power-efficient iterations of Photon2. The demand for smaller, longer-lasting IoT devices continues to grow, especially in applications like wearables and environmental monitoring. Future iterations may integrate advanced power management systems, further extending battery life and reducing the environmental impact. Another exciting prospect is the evolution of the Particle ecosystem. There might be more integrations of more sensors, AI capabilities, and machine learning libraries into the Particle platform, making it easier for developers to create intelligent and data-driven IoT solutions. This could lead to the development of predictive maintenance applications, where connected devices can anticipate and prevent failures in real-time. Pretty cool, isn't it? I'm glad we get to work with this amazing piece of technology. Can't wait to see what my cohort creates with the Photon2 this semester :)
+
 
 ## Week 3 (9/07 - 9/14)
 What a week! This was by far the busiest week I've had this year, with all the Rhino/Grasshopper tutorials, presentations, readings, etc. This week, I learned so much about parametric design (I'm so proud of myself). I went from creating rectangles last week to generating some pretty cool parametric shapes (or we can call them "vases") using Grasshopper. Here are some of the models I created:
