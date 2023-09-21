@@ -2,7 +2,7 @@
 
 ## Week 4 (9/14 - 9/21)
 
-The main task for the week was to connect my Photon2 to the internet. Not as challenging as last week's task - or so I thought. I took my device out of the box,  connected it to the USB cable provided and plugged it into the USB port of my computer. Creating a Particle account was the easiest part, and then I had to setup my Photon2. My computer just wouldn't detect the device - I unplugged, replugged, reset - nothing changed. The status light kept blinking blue, which meant it was in listening mode, so I knew the problem was not with the Photon2 but with my computer. After trying a different USB cable, I was able to connect my device propeerly. But then I got stuck in the next phase of the setup process - Update.
+The main task for the week was to connect my Photon2 to the internet. Not as challenging as last week's task - or so I thought. I took my device out of the box,  connected it to the USB cable provided and plugged it into the USB port of my computer. Creating a Particle account was the easiest part, and then I had to setup my Photon2. My computer just wouldn't detect the device - I unplugged, replugged, reset - nothing changed. The status light kept blinking blue, which meant it was in listening mode, so I knew the problem was not with the Photon2 but with my computer. After trying a different USB cable, I was able to connect my device propeerly. But then I got stuck in the next phase of the setup process - Update. 
 
 ![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/eb9e5ec3-0682-4411-80af-e7a5457d20fe)
 
