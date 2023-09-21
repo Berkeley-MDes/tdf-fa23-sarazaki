@@ -2,7 +2,14 @@
 
 ## Week 4 (9/14 - 9/21)
 
-The main task for the week was to connect my Photon2 to the internet. Not as challenging as last week's task - or so I thought. I took my device out of the box,  connected it to the USB cable provided and plugged it into the USB port of my computer. Creating a Particle account was the easiest part, and then I had to setup my Photon2. My computer just wouldn't detect the device - I unplugged, replugged - nothing changed. The status light kept blinking blue, which meant it was in listening mode, so I knew the problem was not with the Photon2 but with my computer. 
+The main task for the week was to connect my Photon2 to the internet. Not as challenging as last week's task - or so I thought. I took my device out of the box,  connected it to the USB cable provided and plugged it into the USB port of my computer. Creating a Particle account was the easiest part, and then I had to setup my Photon2. My computer just wouldn't detect the device - I unplugged, replugged, reset - nothing changed. The status light kept blinking blue, which meant it was in listening mode, so I knew the problem was not with the Photon2 but with my computer. After trying a different USB cable, I was able to connect my device propeerly. But then I got stuck in the next phase of the setup process - Update.
+
+![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/eb9e5ec3-0682-4411-80af-e7a5457d20fe)
+
+![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/2d9791a5-4e77-47e2-9c4e-881203669a09)
+
+![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/99daf8c9-95a3-44af-b2b4-583cf4810536)
+
 
 ## Week 3 (9/07 - 9/14)
 What a week! This was by far the busiest week I've had this year, with all the Rhino/Grasshopper tutorials, presentations, readings, etc. This week, I learned so much about parametric design (I'm so proud of myself). I went from creating rectangles last week to generating some pretty cool parametric shapes (or we can call them "vases") using Grasshopper. Here are some of the models I created:
