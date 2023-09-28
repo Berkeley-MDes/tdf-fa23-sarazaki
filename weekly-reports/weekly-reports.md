@@ -26,6 +26,8 @@ And finally, a photo of the lecture. It was the most fun TDF session yet:
 
 <img src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/53bb4a29-1565-487d-90bd-c493868abf47" width="560" height="747" />
 
+### Speculations:
+Adrian's talk inspired me to look further into conductive materials. Working with conductive materials opens up a world of possibilities in various technological fields, from electronics to wearable devices and beyond. The integration of conductive materials into flexible and stretchable substrates seems very interesting. Imagine clothing and accessories that incorporate conductive threads or materials, allowing for seamless integration of electronic components into our daily wear. This could lead to clothing with embedded health-monitoring sensors, smart textiles, or even wearable displays. Additionally, the combination of conductive materials with AI technologies could result in smart environments that adapt to our preferences and needs. For instance, conductive materials integrated into the architecture of buildings could enable energy-efficient systems that learn from occupants' behavior. Also, advances in printable conductive inks and materials may lead to a future where electronic circuits and components can be printed directly onto surfaces, including paper, plastics, and even 3D-printed objects. This could democratize electronics manufacturing, enabling rapid prototyping and customization. So cool!
 
 
 ## Week 4 (9/14 - 9/21)
