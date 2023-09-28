@@ -1,5 +1,33 @@
 # Sara Zaki's Weekly Reports
 
+## Week 5 (9/21 - 9/28)
+
+Great week! I learned more about the Photon2 and sensors. I was able to connect the wires and flash my code to the device to make the LED lights blink :)
+
+<img src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e9d4645a-3a86-415f-8c4b-227ec88908e9" width="500" height="700" />
+
+
+As there was no assignment this week, I don't have much to say. However, I'd like to discuss the guest lecture which was absolutely amazing. Adrian Freed seemed like a very creative and innovative person. I loved how he shared his work with us, both digitally and physically. I also enjoyed the brainstorming activity - maybe I'll talk more about that. I believe the class on Monday, this week, was a very productive session because I got to work in a team and generate innovative ideas - thrilling! My team's theme was "Energy" and we came up with a bunch of interesting ideas, working together. We thought of several use cases related to energy saving, from kids' education, households, companies, individuals, to energy visualization. We then defined the problem and came up with 5 possible solution, one from each team member. Mine was a platform teaching kids about energy saving through gamification. Others included mini art installations, interactive color-coded maps, etc.  
+
+<img src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/10a2454c-d013-424c-9ca5-d92032a0d643" width="500" height="500" />
+
+Back to the guest lecture with Adrian Freed. I also had fun building Stonehenge using the wooden tiles provided by the team. Here are is a photo of the activity:
+| | |
+|:-------------------------:|:-------------------------:|
+![Stonehenge](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/2e15ca5b-1d68-47d1-ae9f-26057e49bf90) | ![High Tower](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/acadea2a-6894-4aca-921a-d2221ca78e18)
+
+And here are some of the materials from Adrian Freed's most treasured possession (the binder of rare materials):
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+![Magical Book of Materials 1](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/67428257-0ef3-4c53-8305-0cf42f936741) | ![Magical Book of Materials 2](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/9fd311b6-ce43-4f81-bc58-01747290fb85) | ![Magical Book of Materials 3](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/6d093965-7ea6-4de8-9a90-c37e0cb48ca1)
+
+And finally, a photo of the lecture. It was the most fun TDF session yet:
+
+<img src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/53bb4a29-1565-487d-90bd-c493868abf47" width="560" height="747" />
+
+
+
 ## Week 4 (9/14 - 9/21)
 
 The main task for the week was to connect my Photon2 to the internet. Not as challenging as last week's task - or so I thought. I took my device out of the box,  connected it to the USB cable provided and plugged it into the USB port of my computer. Creating a Particle account was the easiest part, and then I had to setup my Photon2. My computer just wouldn't detect the device - I unplugged, replugged, reset - nothing changed. The status light kept blinking blue, which meant it was in listening mode, so I knew the problem was not with the Photon2 but with my computer. After trying a different USB cable, I was able to connect my device propeerly. But then I got stuck in the next phase of the setup process - Update. 
