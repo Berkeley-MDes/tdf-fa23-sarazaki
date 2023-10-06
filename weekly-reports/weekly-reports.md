@@ -1,5 +1,22 @@
 # Sara Zaki's Weekly Reports
 
+## Week 6 (9/28 - 10/05)
+
+My Photon2 was malfunctioning throughout the week, blinking all sorts of crazy colors, so I could barely follow the flashing instructions during class on Thursday but I was finally able to fix it (using the device doctor and something else which I don't remember now) after several attempts, on Monday. Now it is peacefully breathing cyan, as it should. We chose our Project 2 topics this week and joined teams - exciting. My team consists of 4 members (myself, Vidit, Liam and Eliza) and our topic is 'Breaking Language Barriers.'
+
+Our motivation is simple: in today's global world, language is still a big hurdle in understanding each other. Many people face daily challenges, like tourists asking for directions or doctors understanding patients. Poor communication can lead to serious problems, including life-threatening situations. So, we aim to build a translation/transcription system that could make life easier for everyone - including but not limited to tourists, expats, linguaphiles, the hearing impared, business people.
+
+We're looking at different ways to use smart glasses. One idea is to help tourists understand foreign signs and menus. The smart glasses can instantly translate text you see, using augmented reality. They are clear and unobtrusive. We're also considering a wearable device that translates spoken conversations in real-time. This device focuses on audio but also has a display for reading the conversation if you can't hear it. Both aim to make it easier for people who speak different languages to communicate.
+
+We're short on time, so we're focusing on making a basic prototype. It will show our main idea of real-time translation for what the user sees. We'll also make a digital design to help explain our product better. This way, we can fully share our idea even with limited time. I look forward to the cooming weeks and our final prototype. Thank you and have a great day.
+
+### Speculations
+
+The SonicSight AR project is a groundbreaking initiative aimed at aiding the hearing-impaired by providing visual cues for auditory signals. Developed with machine learning algorithms, the device can recognize a variety of sounds—ranging from emergency sirens to casual conversations—and alert the user through a low-cost augmented reality (AR) display. This technology has the potential to revolutionize the way hearing-impaired individuals interact with their environment, making it safer and more accessible. This will be very useful in the future.
+
+Link: [SonicSight AR - Sound Classification with Feedback on an Augmented Reality Display](https://edge-impulse.gitbook.io/experts/image-projects/particle-photon-2-sonicsight-ar)
+
+
 ## Week 5 (9/21 - 9/28)
 
 Great week! I learned more about the Photon2 and sensors. I was able to connect the wires and flash my code to the device to make the LED lights blink :)
