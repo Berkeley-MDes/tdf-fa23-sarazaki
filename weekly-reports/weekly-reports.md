@@ -1,5 +1,18 @@
 # Sara Zaki's Weekly Reports
 
+## Week 6 (10/05 - 10/12)
+
+This week, my team and I finalized our project topic. We had many great ideas but were finally able to settle on one, thanks to the feedback from every member of the instructional team. The idea we chose was a device that could be used in a social settiing where if a person feels uncomfortable during a conversation, they can discreetly activate a "safe word" feature. This sends a subtle alert to a designated friend's device, signaling that they need assistance or an exit strategy. As an introvert, I'm very excited about this project as it could prove very helpful to those who find social interactions daunting. 
+
+### Speculations
+The development of this device has led us to explore multiple design tools and frameworks that can help realize the product's potential. Considering the fast-paced evolution of technology, particularly in the realm of IoT (Internet of Things) and wearable tech, I foresee these tools evolving significantly in the near future. The "safe word" feature could be activated via voice command, which requires advanced voice recognition software. With improvements in NLP (Natural Language Processing), future versions of our device may recognize not just a predetermined word but also context and tone of speech to provide even more accurate alerts. Given the sensitive nature of the device, robust security features are essential. I anticipate that there will be more focus on blockchain or similar decentralized technologies to secure user data. Also, as 5G becomes mainstream, devices like ours could utilize the high-speed, low-latency capabilities to provide real-time updates and more efficient alert systems.
+
+As social awareness about issues like consent and personal safety grows, I believe that devices like ours will find an increasingly large market. Future directions might include customization by offering various designs, colors, and form factors could make the device appealing to a broader audience. It might also be incorporated into existing objects like jewelry or watches. Partnering with organizations, such as colleges or corporations, could see this device being provided as a standard safety tool for members or employees. Future iterations might use machine learning to better understand the context in which the "safe word" is activated, providing more nuanced support to the user.
+
+I recently read an article on TechCrunch about Google's Project Abacus, which attempts to provide more secure authentication by using biometric data in place of passwords. This technology may have a significant impact on our work, particularly when it comes to making sure that only the device's owner may securely activate the "safe word" feature.
+
+You can find the article here: [Google's Project Abacus](https://www.pandasecurity.com/en/mediacenter/security/project-abacus-end-passwords-company/)
+
 ## Week 6 (9/28 - 10/05)
 
 My Photon2 was malfunctioning throughout the week, blinking all sorts of crazy colors, so I could barely follow the flashing instructions during class on Thursday but I was finally able to fix it (using the device doctor and something else which I don't remember now) after several attempts, on Monday. Now it is peacefully breathing cyan, as it should. We chose our Project 2 topics this week and joined teams - exciting. My team consists of 4 members (myself, Vidit, Liam and Eliza) and our topic is 'Breaking Language Barriers.'
