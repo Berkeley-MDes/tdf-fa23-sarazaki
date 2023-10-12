@@ -11,7 +11,7 @@ As social awareness about issues like consent and personal safety grows, I belie
 
 I recently read an article on TechCrunch about Google's Project Abacus, which attempts to provide more secure authentication by using biometric data in place of passwords. This technology may have a significant impact on our work, particularly when it comes to making sure that only the device's owner may securely activate the "safe word" feature.
 
-You can find the article here: [Google's Project Abacus](https://www.pandasecurity.com/en/mediacenter/security/project-abacus-end-passwords-company/)
+You can find the article here: [Google's Project Abacus](https://techcrunch.com/2016/05/23/google-plans-to-bring-password-free-logins-to-android-apps-by-year-end/)
 
 ## Week 6 (9/28 - 10/05)
 
