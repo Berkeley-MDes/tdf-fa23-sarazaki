@@ -1,6 +1,6 @@
 # Sara Zaki's Weekly Reports
 
-## Week 6 (10/05 - 10/12)
+## Week 7 (10/05 - 10/12)
 
 This week, my team and I finalized our project topic. We had many great ideas but were finally able to settle on one, thanks to the feedback from every member of the instructional team. The idea we chose was a device that could be used in a social settiing where if a person feels uncomfortable during a conversation, they can discreetly activate a "safe word" feature. This sends a subtle alert to a designated friend's device, signaling that they need assistance or an exit strategy. As an introvert, I'm very excited about this project as it could prove very helpful to those who find social interactions daunting. 
 
