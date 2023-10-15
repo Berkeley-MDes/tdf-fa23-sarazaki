@@ -1,5 +1,10 @@
 # Sara Zaki's Weekly Reports
 
+## Week 8 (10/12 - 10/19)
+I had some trouble flashing my code to get the vibrating motor working, so I renamed the device from 'Enigmatic Photon 2 / P2s' (which was apparentyl too long and casued issues), to just 'Enigmatic' such that it is easier to work with.
+![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d65f7f12-1dcd-4adf-af82-1f287fcb19d9)
+
+
 ## Week 7 (10/05 - 10/12)
 
 This week, my team and I finalized our project topic. We had many great ideas but were finally able to settle on one, thanks to the feedback from every member of the instructional team. The idea we chose was a device that could be used in a social settiing where if a person feels uncomfortable during a conversation, they can discreetly activate a "safe word" feature. This sends a subtle alert to a designated friend's device, signaling that they need assistance or an exit strategy. As an introvert, I'm very excited about this project as it could prove very helpful to those who find social interactions daunting. 
