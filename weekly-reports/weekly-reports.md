@@ -2,7 +2,7 @@
 
 ## Week 8 (10/12 - 10/19)
 I had some trouble flashing my code to get the vibrating motor working, so I renamed the device from 'Enigmatic Photon 2 / P2s' (which was apparentyl too long and casued issues), to just 'Enigmatic' such that it is easier to work with.
-![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/151019ce-5cdb-4c1b-87ef-4c86cbfe869f)
+![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d9329e0a-8279-4771-ba92-670e45187acc)
 
 
 ## Week 7 (10/05 - 10/12)
