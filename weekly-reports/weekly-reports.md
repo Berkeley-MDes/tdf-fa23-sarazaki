@@ -9,7 +9,16 @@ After many, many tries and hours of debugging, I successfully flashed the code t
 
 https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/86fc8f16-3874-4560-91d9-cd8ddf498f52
 
-Eliza tauught me how to solder and it was such a beautiful experience. I love how my cohort always helps each other and there's no competition between us.
+My team was incredible this week. Everyone made great contributions, and we all helped each other learn and grow through this project. I am grateful for the help I received from everyone on my team - Eliza taught me to solder, Liam helped me set up my breadboard correctly and Vidit helped me get the Photon to Photon comms working. I couldn't have done this without them :) 
+
+And this was by far the busiest week I've had this semester. I was simultaneously working on 6 different projects and each day was a deadline. I'm extremely proud of my efforts and output this week because I was able to get most of my work done (and in good quality) in time. I learned by doing, which I believe is the best method of learning. I had a lot of trouble compiling my code and flashing it to the Photon2. I even had to rename my device to get it work at some point. After that, my VScode completely stopped working so I had to switch to the Particle Web IDE and to my surprise, I was able to successfully compile and flash my code there. After that, the rest was a breeze. I helped test the connection between Photons with Vidit all night and it felt great that everything was working as planned.
+
+### Speculations
+
+For this project, we anticipate developing a tool that seamlessly integrates into users' daily lives, becoming an essential feature for enhancing personal safety across various social scenarios. Imagine being able to tap a button on your phone or smartwatch and instantly letting a friend know you need help, without making it obvious to anyone else. We're thinking about adding this to apps people already use, like texting or maybe even as a smartwatch feature. Of course, we know privacy is a big deal, so we'd make sure any alerts are super secure. Down the line, we might add more cool features, like sharing your location or even a way to contact emergency services. The key is to make it simple and quick to use, so people actually use it. If we get this right, we think it could really change the game for personal safety.
+
+Presentation Video: [Link](https://youtu.be/FSZ16t8Mt8I)
+
 
 
 ## Week 7 (10/05 - 10/12)
