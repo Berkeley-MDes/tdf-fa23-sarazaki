@@ -1,5 +1,9 @@
 # Sara Zaki's Weekly Reports
 
+## Week9 (10/19 - 10/26)
+
+
+
 ## Week 8 (10/12 - 10/19)
 I recieved a haptic controller from Jeff this week and soldered (for the first time). I had some trouble flashing my code to get the vibrating motor working, so I renamed the device from 'Enigmatic Photon 2 / P2s' (which was apparently too long and caused issues), to just 'Enigmatic' such that it was easier to work with.
 ![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d9329e0a-8279-4771-ba92-670e45187acc)
