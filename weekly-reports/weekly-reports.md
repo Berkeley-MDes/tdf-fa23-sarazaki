@@ -2,9 +2,24 @@
 
 ## Week9 (10/19 - 10/26)
 
+Last week felt like navigating an obstacle course, but we managed to complete our group project. Finally decided on a name - we called it the 'Rescue Ring.' It required some rapid-fire problem-solving and true grit, but we submitted just in the nick of time. It's during these rollercoaster moments that a team really gets together. I’m so grateful for the hard work and smarts everyone brought to the table — it was a fantastic group to be part of.
+
+On a side note, during one of Peter’s lectures, I noticed a classmate who sat next to me, Junjie, seemed to be grappling with the new concepts. I took a moment to clarify things, which helped her catch up and simultaneously solidified my own understanding.
+
+An intriguing thought hit me post-lecture: I’m now pondering over a personal project, employing AI I'm developing to convey a significant message to my parents (creating a mini-me that would help me come out to them). It’s an independent endeavor, yet the thought of merging my personal narrative with technology is quite thrilling. I think the next project is going to be so much fun!
+
+Now we’ve shifted into a quieter week, which feels like a much-needed interlude. It's giving us some space to unwind and refocus, a chance to refresh our minds and stimulate our creativity for what comes next. Many thanks to the TDF instructional team.
+
+Here's a link to the presentation video: [Rescue Ring](https://youtu.be/FSZ16t8Mt8I)
+
+
+### Speculations:
+
+Moving forward, I anticipate the convergence of personal storytelling with technology becoming a more prominent theme in design. Tools like ZeroWidth will likely gain importance, not only for their technical applications but for their potential in personal expression. As for my personal journey, I am excited at the prospect of exploring how these tools can enhance communication and self-expression. I anticipate that my exploration into ZeroWidth will not just be a learning experience but a stepping stone to incorporating more of my personal narrative into my design work.
 
 
 ## Week 8 (10/12 - 10/19)
+
 I received a haptic controller from Jeff this week and soldered (for the first time). I had some trouble flashing my code to get the vibrating motor working, so I renamed the device from 'Enigmatic Photon 2 / P2s' (which was apparently too long and caused issues), to just 'Enigmatic' such that it was easier to work with.
 ![image](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/d9329e0a-8279-4771-ba92-670e45187acc)
 
