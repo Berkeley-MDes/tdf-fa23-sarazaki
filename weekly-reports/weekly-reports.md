@@ -2,7 +2,7 @@
 
 ## Week9 (10/19 - 10/26)
 
-Last week felt like navigating an obstacle course, but we managed to complete our group project. Finally decided on a name - we called it the 'Rescue Ring.' It required some rapid-fire problem-solving and true grit, but we submitted just in the nick of time. It's during these rollercoaster moments that a team really gets together. I’m so grateful for the hard work and smarts everyone brought to the table — it was a fantastic group to be part of.
+Last week felt like sprinting through a storm of tasks and milestones, but we managed to complete our group project. Finally decided on a name - we called it the 'Rescue Ring.' It required some rapid-fire problem-solving and true grit, but our project landed across the finish line right on schedule. It was hardly a straightforward trip; we had our fair share of complex challenges and close calls that really put our determination to the test. It's during these rollercoaster moments that you get to know what a team is really made of. I’m honestly so grateful for the hard work and smarts everyone brought to the table — my team was fantastic and worked well together.
 
 On a side note, during one of Peter’s lectures, I noticed a classmate who sat next to me, Junjie, seemed to be grappling with the new concepts. I took a moment to clarify things, which helped her catch up and simultaneously solidified my own understanding.
 
