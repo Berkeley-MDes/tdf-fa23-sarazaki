@@ -2,8 +2,7 @@
 
 ## Week 10 (10/26 - 11/02)
 
-Highlight of the week - I got sick and had to stay home from school for a few days :( 
-(I wear a mask ALL THE TIME! I don't know how I managed to get sick). Anyway...
+Highlight of the week - I got sick and had to stay home from school for a few days :( I wear a mask ALL THE TIME! I don't know how I managed to get sick. Anyway...
 
 We've all had a really productive week, getting deep into making our LLM 'mini-me's. Watching everyone, I was struck by how each person's creation was so different and personal. Some were particularly imaginative, taking the project in their own direction that really showed their enthusiasm.
 
