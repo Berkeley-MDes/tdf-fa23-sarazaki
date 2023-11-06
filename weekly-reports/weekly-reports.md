@@ -2,7 +2,31 @@
 
 ## Week 10 (10/26 - 11/02)
 
+Highlight of the week - I got sick and had to stay home from school for a few days :( (I wear a mask ALL THE TIME! I don't know how I managed to get sick). Anyway...
 
+We've all had a really productive week, getting deep into making our LLM 'mini-me's. Watching everyone, I was struck by how each person's creation was so different and personal. Some were particularly imaginative, taking the project in their own direction that really showed their enthusiasm.
+
+For me, it was a busy but rewarding week. I managed to finish both parts of the AI 'mini-me' project before Tuesday. The first part was just as the project outlined, but the second part was more personal. I made it to help me share something important with my parents. It took a lot of testing and tweaking to get it right, but I’m happy with how it turned out.
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="No Privacy" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/2d08a8b3-0d26-44a1-9c7e-fe8277346c38">  Mini-Me Trying to Spill the Beans |  <img width="1604" alt="Generation Error" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/841b0278-21d1-4f11-8842-4d4de56f0a13"> Token Limit at 'Hi' |<img width="1604" alt="Token Limit" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/9348d79b-c82f-4ff0-9689-ec3ad81ac4b0"> Error Details |
+
+I did run into some issues, though. Initially, my AI was giving out personal info to users due to inadequately structured instructions. After a few iterations, I was able to get it working as expected but then I ran into another problem - my context window was used up at just "hi." (the very beginning of the conversation). This issue led me to experiment with different models, transitioning from GPT-4 to GPT-3.5 Turbo 16k, which solved the token limit problem but brought a new challenge to the table, as the AI completely stopped inquiring about the user's identity at the beginning of the conversation. After several reiterations in the instructions and testing for hours, I finally figured out the most optimal way to train the model with explicit instructions and went back to the GPT-4. It was working much better. I also realized something interesting - the LLM couldn't tell the time correctly. LOL.
+
+Playing with the AI's settings was fascinatng, too. I learned that changing the temperature settings could make the AI's responses either straight to the point (with a low temp) or more creative (with a higher temp). Sure, I messed up a few times and broke the model several times, but I learned a lot from those mistakes and now I'm a little wiser than when I started - that is all that matters :) Another curious aspect of my experiments was understanding the impact of token count and context length on response time, which varied notably between models. This, I noticed, was crucial for optimizing the Mini-Me's performance.
+
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="As a Student" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/8b165539-699b-4efb-aee2-6f7c8ead3d5d">  As a Student |  <img width="1604" alt="As an Instructor" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/ce381c53-442e-4359-928b-0f8a54ebeda3"> As an Instructor |<img width="1604" alt="As a Recruiter" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/8b8296ee-501b-41db-8cfb-fc00177403f1"> As a "Recrui ter" |<img width="1604" alt="As an Imposter" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/fa1df34f-7288-4804-868e-82749c1236b9"> As an Impostor (º～º) |
+
+The key to making it all work was organizing the data well so the AI could use it correctly. Getting to that point took a lot of careful work. To say the least, handling the Knowledge Base was quite tough, as the AI kept hallucinating and spouting absolutely untrue, misleading garbage. Weirdly enough, each time I tested it and it failed, I just got more hyped up about fixing it because I took it on as a challenge - one from which I was determined to emerge victorious, at any cost. Using Retrieval Augmented Generation, I was able to efficiently structure and organize my knowledge base such that the LLM could pull only the necessary information and provide the approriate response to the questions asked by the user.
+
+The week's technical endeavors gave rise to profound musings on the future of AI. I see the potential for personalized digital companions to revolutionize our interactions with AI, providing bespoke experiences that reflect individual human needs. For people in situations akin to mine, this technology offers a novel way to navigate complex personal conversations.
+
+### Speculations:
+
+The week's endeavors led me to deep reflections on the future of AI. I see the potential for personalized digital companions to revolutionize our interactions with AI, providing tailored experiences that reflect individual human needs. For people in similar situations to mine, this technology offers a new way to navigate complex personal conversations. The process of creating my AI mini-me has been equivalent to capturing a digital essence of myself, a notion that feels like a step towards digital immortality. Considering the broader implications, I envision these technologies eventually evolving into platforms for personalized storytelling and support, TRANScending (pun intended) their current roles and revolutionizing human-machine interaction. Conclusively, this week has not only advanced my technical skills but also expanded my understanding of the emotional and practical capacities of AI. The blend of design, empathy, and technology is paving the way for exciting future applications that I am eager to explore further, beyond the scopes of this project.
 
 
 ## Week 9 (10/19 - 10/26)
