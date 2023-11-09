@@ -2,8 +2,7 @@
 
 ## Week 11 (11/02 - 11/09)
 
-
-
+Great week! I found a lot of inspiration in the guest lecture on Monday, by Mohit Bhoite on electronic and art. What truly resonated with me, among the many interesting things he said, was that there doesn't have to be a point to creating something and that he just does it because it brings him joy. Now I want to do something that brings ME joy - but I don't know what it is yet
 
 ## Week 10 (10/26 - 11/02)
 
