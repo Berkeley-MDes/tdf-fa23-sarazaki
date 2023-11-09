@@ -1,5 +1,10 @@
 # Sara Zaki's Weekly Reports
 
+## Week 11 (11/02 - 11/09)
+
+
+
+
 ## Week 10 (10/26 - 11/02)
 
 Highlight of the week - I got sick and had to stay home from school for a few days :( I wear a mask ALL THE TIME! I don't know how I managed to get sick. Anyway...
