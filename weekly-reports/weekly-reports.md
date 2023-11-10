@@ -2,7 +2,15 @@
 
 ## Week 11 (11/02 - 11/09)
 
-Great week! I found a lot of inspiration in the guest lecture on Monday, by Mohit Bhoite on electronic and art. What truly resonated with me, among the many interesting things he said, was that there doesn't have to be a point to creating something and that he just does it because it brings him joy. Now I want to do something that brings ME joy - but I don't know what it is yet
+Great week! I found a lot of inspiration in the guest lecture on Monday, by Mohit Bhoite on electronic and art. What truly resonated with me, among the many interesting things he said, was that there doesn't have to be a point to creating something and that he just does it because it brings him joy. Now I want to do something that brings ME joy - but I don't know what it is yet. 
+
+Here are some of Mohit's devices:
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Photon" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/efa83f4c-983a-4765-94d6-4e57d4d00f3f"> |  <img width="1604" alt="Another Photon" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/a17b8ee1-f9a9-4a75-a7aa-a446bf60099d"> |<img width="1604" alt="Yet Another Photon" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/1b67e37f-260c-4989-ab7d-71298182340d"> |
+
+My cohort seemed to really enjoy the guest lecture, too, and everyone seems excited about the freedom of choice which project 4 allows. I have spoken to a few of my classmates and from the many ideas I've heard, I think it is safe to say that we will be seeing some pretty awesome products at the end of the semester. Can't wait! This week, as there was no project to work on, I don't have much to say, but I believe that will change from this point onwards as we all get immersed in bringing our new ideas to life and delivering (what we all hope to be) an unforgettable, portfolio-worthy final project. Thank you.
 
 ## Week 10 (10/26 - 11/02)
 
