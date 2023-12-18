@@ -13,12 +13,29 @@
 
 
 ## Week 13 (11/16 - 11/23)
+This week, my final project team (Junjie and Bob) has been nothing short of phenomenal. The level of communication, support, and commitment from each member has truly exceeded my expectations. It's heartening to see our collective enthusiasm in turning our interactive art installation from a concept to reality. Our check-ins with the instructional team were highly productive. These sessions provided us with much-needed clarity and direction, ensuring we stay on the right track.
 
+The week was marked by intensive research and preliminary testing, all carried out in the spirit of close collaboration. It's impressive how seamlessly our team works together, each bringing unique insights and skills to the table.
 
+Ah, Thanksgiving! It offered a much-needed pause in our busy schedules. While we didn't accomplish as much as planned work-wise, the break was a welcome respite. Personally, I found this time crucial for a 'hard reset,' recharging my batteries and returning with renewed vigor.
+
+### Speculations:
+Post-Thanksgiving, I anticipate a surge in our productivity. The rest has rejuvenated us, and I'm excited to see how this refreshed energy translates into our project work. Our art installation is beginning to take shape, and I speculate that the coming weeks will be filled with rapid development and creative breakthroughs. There's a buzzing sense of anticipation about how our project will evolve.
 
 ## Week 12 (11/09 - 11/16)
 
+Exciting news! This week marked the formation of our dynamic trio for Project 4 – an interactive art installation. After the proposal poster showcase in class, I teamed up with Bob and Junjie, both of whom bring brilliant ideas and skills to the table. Originally, I had planned to embark on this project solo, envisioning it as a canvas for my personal creativity. However, I'm now thrilled at the prospect of turning it into a testament to the power of collaboration and teamwork.
 
+Not gonna lie, this week was a rollercoaster of emotions. Amidst the chaos of final projects, deadlines, and pressure, I experienced several intense moments of stress. But fear not, I'm still hanging on! These experiences, while challenging, are teaching me the importance of resilience and self-care in high-pressure environments. While the week didn't offer much in terms of team collaboration due to lecture schedules, the formation of our team itself was a significant step. I'm eager to dive into more collaborative efforts as we progress with the project.
+
+![TDF 4 Pin-up board](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/cded8778-fd37-4337-a476-2db8df27a271)
+
+
+### Speculations:
+
+As we embark on this journey, I'm curious about how our individual styles and ideas will mesh and evolve into something unique. The interactive nature of our art installation promises a blend of technology and creativity that I believe will captivate our audience. I'm quite optimistic about the direction our project will take. There's a buzzing excitement about what we can achieve as a team, and I'm speculating that our combined effort will result in a product that's not only innovative but also a true reflection of our shared vision.
+
+The formation of a new team, coupled with the excitement and challenges of starting our final project, made this week memorable. Despite the emotional ups and downs, the anticipation of what's to come is truly exhilarating. As we move forward, I look forward to deepening our collaboration, refining our ideas, and starting the hands-on work. There's a lot to do, but with Bob and Junjie by my side, I'm confident that we're going to create something extraordinary.
 
 ## Week 11 (11/02 - 11/09)
 
@@ -29,6 +46,8 @@ Here are some of Mohit's devices:
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Photon" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/efa83f4c-983a-4765-94d6-4e57d4d00f3f"> |  <img width="1604" alt="Another Photon" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/a17b8ee1-f9a9-4a75-a7aa-a446bf60099d"> |<img width="1604" alt="Yet Another Photon" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/1b67e37f-260c-4989-ab7d-71298182340d"> |
+
+### Speculations:
 
 My cohort seemed to really enjoy the guest lecture, too, and everyone seems excited about the freedom of choice which project 4 allows. I have spoken to a few of my classmates and from the many ideas I've heard, I think it is safe to say that we will be seeing some pretty awesome products at the end of the semester. Can't wait! This week, as there was no project to work on, I don't have much to say, but I believe that will change from this point onwards as we all get immersed in bringing our new ideas to life and delivering (what we all hope to be) an unforgettable, portfolio-worthy final project. Thank you.
 
