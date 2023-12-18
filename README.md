@@ -3,7 +3,7 @@ Please find my weekly reports here: [Sara's weekly progress reports](https://git
 ---
 Cheers! :)
 
- [Week 1](#-week-1-824---831)
+ [Week 1](#week-1-824---831)
 
 
 
