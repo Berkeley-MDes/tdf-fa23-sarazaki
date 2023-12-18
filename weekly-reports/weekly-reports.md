@@ -1,5 +1,25 @@
 # Sara Zaki's Weekly Reports
 
+## Week 16 (12/07 - 12/14)
+
+
+
+## Week 15 (11/30 - 12/07)
+
+
+
+## Week 14 (11/23 - 11/30)
+
+
+
+## Week 13 (11/16 - 11/23)
+
+
+
+## Week 12 (11/09 - 11/16)
+
+
+
 ## Week 11 (11/02 - 11/09)
 
 Great week! I found a lot of inspiration in the guest lecture on Monday, by Mohit Bhoite on electronic and art. What truly resonated with me, among the many interesting things he said, was that there doesn't have to be a point to creating something and that he just does it because it brings him joy. Now I want to do something that brings ME joy - but I don't know what it is yet. 
