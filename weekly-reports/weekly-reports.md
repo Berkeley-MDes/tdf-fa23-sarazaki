@@ -12,7 +12,7 @@ Insights from experts and attendees alike opened doors to potential enhancements
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="With Sudhu" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/24f8ebb3-d5c4-45ab-814b-5130de301079"> |  <img width="1604" alt="With TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e3513406-cb14-4bac-9563-7d950417b47a"> | <img width="1604" alt="With Shm and Bob" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e442615b-7263-42af-ab10-5df4aa091f6c"> |
+|<img width="1604" alt="With Sudhu" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/46e5349b-4234-409d-8e30-ca4fb764784b9"> |  <img width="1604" alt="With TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e3513406-cb14-4bac-9563-7d950417b47a"> | <img width="1604" alt="With Shm and Bob" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e442615b-7263-42af-ab10-5df4aa091f6c"> |
 Selfies wiith the instructors (Sudhu and TJ) and team member (Bob) at the showcase (12/07/2023). Just realized I forgot to get one with Jeff and Junjie (︶︹︺)
 
 
