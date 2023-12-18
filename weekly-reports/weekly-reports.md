@@ -12,9 +12,21 @@ Insights from experts and attendees alike opened doors to potential enhancements
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="With Sudhu" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/46e5349b-4234-409d-8e30-ca4fb764784b9"> |  <img width="1604" alt="With TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e3513406-cb14-4bac-9563-7d950417b47a"> | <img width="1604" alt="With Shm and Bob" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e442615b-7263-42af-ab10-5df4aa091f6c"> |
+|<img width="1604" alt="With Sudhu" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/8c61cd4d-3651-4079-bcc4-f1a97519aa68"> |  <img width="1604" alt="With TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e3513406-cb14-4bac-9563-7d950417b47a"> | <img width="1604" alt="With Shm and Bob" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e442615b-7263-42af-ab10-5df4aa091f6c"> |
+
 Selfies wiith the instructors (Sudhu and TJ) and team member (Bob) at the showcase (12/07/2023). Just realized I forgot to get one with Jeff and Junjie (︶︹︺)
 
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Amy" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/dfac2eb5-1dfb-4b81-a504-2d31d1beec0d"> |  <img width="1604" alt="Kyle" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/34daf6a2-61e3-412b-97b4-516e9866b6b7"> |
+
+Amy Dinh and Kyle Steinfeld (among many other critics) interacting with our installation.
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Fareha Khan" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/aa69d090-4cb6-4e2b-b750-5b61638002db"> |  <img width="1604" alt="Marissa Maldonaldo" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/130b36da-b3c3-47ba-b788-298ad6752660"> | <img width="1604" alt="Kirk Mendoza" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/2d908ca9-7d93-4cf9-8433-d69b2b81654d"> |
+
+Other super cool projects (by Fareha Khan, Marissa Maldonaldo, and Kirk Mendoza) at the Jacobs Winter Showcase '23. 
 
 ### Speculations:
 
@@ -33,11 +45,13 @@ Our journey with Particle Photon2, ZeroWidth, OpenAI, Adafruit’s accelerometer
 | | |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Test 1 with p5.js" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/1b65bb29-5b1f-412f-8406-b0bdbbf2adf8"> |  <img width="1604" alt="Test 2 wiith Node.js" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/f75eb814-6f9a-4538-979b-d2f44422cf89"> |
+
 Code snippets from tests using p5.js and Node.js
 
 | | | |
-|:-------------------------:|:-------------------------:|
+|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Installation Test 1" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e43fc3c5-486e-4e95-aa54-aa1d2702afe3"> |  <img width="1604" alt="Installation Test 2" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/627c4969-4e6b-4214-8838-eef5cd4323b8"> | <img width="1604" alt="Motion Wand Prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/88f6a833-dcbb-4e2d-8ae6-d38e3b7f7af3"> |
+
 Final tests conducted the night before the showcase.
 
 ### Speculations:
