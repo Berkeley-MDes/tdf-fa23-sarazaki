@@ -2,7 +2,21 @@
 
 ## Week 16 (12/07 - 12/14)
 
+The Jacobs Winter Showcase was a pivotal moment for "Poetry in Motion," offering a platform to share our creation and gather diverse perspectives. The interactions with attendees, ranging from students to industry experts, provided us with a wealth of feedback and ideas, sparking new thoughts about the future direction of our project.
 
+"Poetry in Motion" is an interactive art installation that integrates motion sensors, AI-generated poetry, and a multisensory environment to create a unique experience where movement transforms into poetic expressions. The team comprised three members - myself, Bob Wei, and Junjie Li. The collaborative spirit and unwavering support within our team were instrumental in navigating the project's challenges and achieving our goals. Balancing the project's demands with personal well-being was a crucial learning experience, highlighting the importance of mental health in high-pressure environments.
+
+Our journey encompassed Particle Photon2 (and Boron), OpenAI API, p5.js, Postman, Python, Adafruit’s ADXL326 5V ready triple-axis accelerometer, Round Force-Sensitive Resistor (FSR). Navigating these technologies underscored the importance of adaptability and problem-solving in real-world applications. From shifting our AI platform to solving technical glitches, our team demonstrated resilience and ingenuity, ensuring the project's success despite numerous obstacles.
+
+Insights from experts and attendees alike opened doors to potential enhancements, including AR integration, haptic feedback, and more dramatic interactive elements. The idea of integrating interactive narratives, multilingual poetry generation, and personalized experiences based on users' emotional responses presents fascinating possibilities for future development. 
+
+
+
+### Speculations:
+
+The project has the potential to revolutionize how we interact with art and technology, offering therapeutic and educational experiences that promote mindfulness, creativity, and social inclusion. This endeavor illustrates the necessity for interdisciplinary collaboration in modern technology design. The integration of aesthetic, experiential, and technical elements in our project foreshadows a future where engineering is deeply intertwined with art and human-centric design.
+
+The showcase marked not just the culmination of a project but the beginning of an ongoing journey of innovation, personal growth, and exploration. Inspired by the feedback and armed with new insights, I am eager to further develop and refine "Poetry in Motion," exploring its potential applications beyond the academic environment and into broader societal contexts.
 
 ## Week 15 (11/30 - 12/07)
 
@@ -15,6 +29,18 @@ Our journey with Particle Photon2, ZeroWidth, OpenAI, Adafruit’s accelerometer
 | | |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Test 1 with p5.js" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/1b65bb29-5b1f-412f-8406-b0bdbbf2adf8"> |  <img width="1604" alt="Test 2 wiith Node.js" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/f75eb814-6f9a-4538-979b-d2f44422cf89"> |
+Code snippets from tests using p5.js and Node.js
+
+| | | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Installation Test 1" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e43fc3c5-486e-4e95-aa54-aa1d2702afe3"> |  <img width="1604" alt="Installation Test 2" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/627c4969-4e6b-4214-8838-eef5cd4323b8"> | <img width="1604" alt="Motion Wand Prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/88f6a833-dcbb-4e2d-8ae6-d38e3b7f7af3"> |
+Final tests conducted the night before the showcase.
+
+| | | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="With Sudhu" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/24f8ebb3-d5c4-45ab-814b-5130de301079"> |  <img width="1604" alt="With TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e3513406-cb14-4bac-9563-7d950417b47a"> | <img width="1604" alt="With Shm and Bob" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e442615b-7263-42af-ab10-5df4aa091f6c"> |
+Selfies wiith the instructors (Sudhu and TJ) and team member (Bob) at the showcase (12/07/2023). Just realized I forgot to get one with Jeff and Junjie (︶︹︺)
+
 
 ### Speculations:
 
