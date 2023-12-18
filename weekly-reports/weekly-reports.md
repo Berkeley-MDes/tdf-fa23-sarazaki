@@ -10,6 +10,10 @@ Our journey encompassed Particle Photon2 (and Boron), OpenAI API, p5.js, Postman
 
 Insights from experts and attendees alike opened doors to potential enhancements, including AR integration, haptic feedback, and more dramatic interactive elements. The idea of integrating interactive narratives, multilingual poetry generation, and personalized experiences based on users' emotional responses presents fascinating possibilities for future development. 
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="With Sudhu" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/24f8ebb3-d5c4-45ab-814b-5130de301079"> |  <img width="1604" alt="With TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e3513406-cb14-4bac-9563-7d950417b47a"> | <img width="1604" alt="With Shm and Bob" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e442615b-7263-42af-ab10-5df4aa091f6c"> |
+Selfies wiith the instructors (Sudhu and TJ) and team member (Bob) at the showcase (12/07/2023). Just realized I forgot to get one with Jeff and Junjie (︶︹︺)
 
 
 ### Speculations:
@@ -35,12 +39,6 @@ Code snippets from tests using p5.js and Node.js
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Installation Test 1" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e43fc3c5-486e-4e95-aa54-aa1d2702afe3"> |  <img width="1604" alt="Installation Test 2" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/627c4969-4e6b-4214-8838-eef5cd4323b8"> | <img width="1604" alt="Motion Wand Prototype" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/88f6a833-dcbb-4e2d-8ae6-d38e3b7f7af3"> |
 Final tests conducted the night before the showcase.
-
-| | | |
-|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="With Sudhu" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/24f8ebb3-d5c4-45ab-814b-5130de301079"> |  <img width="1604" alt="With TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e3513406-cb14-4bac-9563-7d950417b47a"> | <img width="1604" alt="With Shm and Bob" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/e442615b-7263-42af-ab10-5df4aa091f6c"> |
-Selfies wiith the instructors (Sudhu and TJ) and team member (Bob) at the showcase (12/07/2023). Just realized I forgot to get one with Jeff and Junjie (︶︹︺)
-
 
 ### Speculations:
 
