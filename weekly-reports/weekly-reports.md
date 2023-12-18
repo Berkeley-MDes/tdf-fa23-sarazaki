@@ -23,7 +23,6 @@ Sara - share knowledge regarding ways to think about poetry for the LLM; structu
 Junjie - help Bob understand what you have been researching, how it relates to the tasks at hand, and what he might be working on that integrates with your research
 
 I had a fantastic time introducing Junjie to the world of poetry and AI. We embarked on creating a new intelligence on ZeroWidth, an exciting venture into collaborative learning and innovation. Encountered a hiccup with the 'share' functions on ZeroWidth, but thankfully, Peter was our tech superhero, swooping in to resolve the issue promptly. On another front, while attempting to assist Bob with Node.js installation, we collectively decided to pivot to p5js. It proved to be a more straightforward and equally educational choice for us.
-
 <img width="996" alt="Workflow ideation with Jeff" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/08bdddf2-9cdf-4da9-a051-1120245fa452">
 Screenshot from workflow ideation and ideal task delegation meeting with Jeff ✔
 
