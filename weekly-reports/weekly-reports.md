@@ -10,7 +10,26 @@
 
 ## Week 14 (11/23 - 11/30)
 
+This week, our team dived deep into the intricate aspects of our project. It's been a journey of meticulous planning and execution, ensuring that every little detail aligns with our vision for the interactive art installation. Kudos to Jeff for his impromptu assistance in task delegation. His guidance was crucial in helping us step out of our comfort zones and embrace new challenges. The team's willingness to explore and collaborate has been outstanding, especially considering this is our first project together.
 
+This is what our initial feasibility experiments looked like:
+Bob - server configuration: configure with relevant libraries, test basic functions
+Sara - accelerometer processing and translation to strings
+Junjie - working on poetry experiments in zerowidth - structuring knowledge, eval what it means to generate poetry (consult with Sara)
+
+Tasks:
+Bob - share knowledge you have about micro-electronics with Sara via some meetings and examples
+Sara - share knowledge regarding ways to think about poetry for the LLM; structuring information, suggested methods to execute, and what to look for in the evaluation of a quality response
+Junjie - help Bob understand what you have been researching, how it relates to the tasks at hand, and what he might be working on that integrates with your research
+
+I had a fantastic time introducing Junjie to the world of poetry and AI. We embarked on creating a new intelligence on ZeroWidth, an exciting venture into collaborative learning and innovation. Encountered a hiccup with the 'share' functions on ZeroWidth, but thankfully, Peter was our tech superhero, swooping in to resolve the issue promptly. On another front, while attempting to assist Bob with Node.js installation, we collectively decided to pivot to p5js. It proved to be a more straightforward and equally educational choice for us.
+
+<img width="996" alt="Workflow ideation with Jeff" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/08bdddf2-9cdf-4da9-a051-1120245fa452">
+Screenshot from workflow ideation and ideal task delegation meeting with Jeff ✔
+
+### Speculations:
+
+With the foundational work nearly complete, I'm curious to see how our project will evolve in the coming weeks. There's a sense of anticipation as we inch closer to realizing our collective vision. The diversity of skills and knowledge within our team hints at an exciting journey ahead. I speculate that our project will not only be a showcase of technical proficiency but also of personal and collective growth. The highlight of this week was undoubtedly the seamless collaboration and the eagerness of each team member to learn and adapt. The synergy within the team has been remarkable, and I'm incredibly proud of what we've achieved so far. Moving forward, we aim to build upon the solid foundation we've established. Whether it's exploring new technologies or refining our existing ideas, the goal is to keep the momentum going and steer our project towards a successful completion.
 
 ## Week 13 (11/16 - 11/23)
 This week, my final project team (Junjie and Bob) has been nothing short of phenomenal. The level of communication, support, and commitment from each member has truly exceeded my expectations. It's heartening to see our collective enthusiasm in turning our interactive art installation from a concept to reality. Our check-ins with the instructional team were highly productive. These sessions provided us with much-needed clarity and direction, ensuring we stay on the right track.
