@@ -6,7 +6,19 @@
 
 ## Week 15 (11/30 - 12/07)
 
+The phrase 'living at Jacobs Hall' might have been an understatement for this week! Our team's dedication was unparalleled, with every challenge encountered adding to our excitement rather than our stress. We dug deep into the technicalities, solving every puzzle that came our way. From adapting to broken 'share' functions to pivoting to OpenAI’s API (which we had to pay for ಥ_ಥ), it was a week filled with rapid adaptation and learning.
 
+The support and understanding within our team have been incredible. We've backed each other up through other class deadlines, ensuring no one fell behind. My role in AI and poetry integration was both challenging and rewarding. It was a thrill to push the boundaries of my technical skills, even if it meant resorting to glasses due to excessive screen time!
+
+Our journey with Particle Photon2, ZeroWidth, OpenAI, Adafruit’s accelerometer, p5.js and Node.js was an odyssey of innovation and flexibility. Though not without its hurdles, the experience enriched our technical expertise. Despite some sacrifices in other assignments, the dedication to this project was unwavering. It was a testament to prioritization and focusing on what truly matters.
+
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Test 1 with p5.js" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/1b65bb29-5b1f-412f-8406-b0bdbbf2adf8"> |  <img width="1604" alt="Test 2 wiith Node.js" src="https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/assets/143126838/f75eb814-6f9a-4538-979b-d2f44422cf89"> |
+
+### Speculations:
+
+The culmination of our hard work in these final days has been nothing short of exhilarating. Our team’s resilience, creativity, and mutual support have been the keystones of this journey. As we prepare for the Jacobs Winter Showcase, there's a palpable excitement to share our creation with the world and gather feedback for future enhancements. My spidey senses tell me this is going to be AWESOME!!!
 
 ## Week 14 (11/23 - 11/30)
 
