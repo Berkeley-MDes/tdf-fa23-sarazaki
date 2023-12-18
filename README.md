@@ -23,7 +23,7 @@ Cheers! :)
 
 [Week 7](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/edit/main/weekly-reports/weekly-reports.md#week-1-824---831)
 
-[Week 6](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/edit/main/weekly-reports/weekly-reports.md#week-1-824---831)
+[Week 6](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/blob/main/weekly-reports/weekly-reports.md#week-6-928---1005)
 
 [Week 5](https://github.com/Berkeley-MDes/tdf-fa23-sarazaki/edit/main/weekly-reports/weekly-reports.md#week-1-824---831)
 
