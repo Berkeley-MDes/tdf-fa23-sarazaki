@@ -30,7 +30,7 @@ Other super cool projects (by Fareha Khan, Marissa Maldonaldo, and Kirk Mendoza)
 
 ### Speculations:
 
-The project has the potential to revolutionize how we interact with art and technology, offering therapeutic and educational experiences that promote mindfulness, creativity, and social inclusion. This endeavor illustrates the necessity for interdisciplinary collaboration in modern technology design. The integration of aesthetic, experiential, and technical elements in our project foreshadows a future where engineering is deeply intertwined with art and human-centric design.
+I believe this project has the potential to revolutionize how we interact with art and technology, offering therapeutic and educational experiences that promote mindfulness, creativity, and social inclusion. This endeavor illustrates the necessity for interdisciplinary collaboration in modern technology design. The integration of aesthetic, experiential, and technical elements in our project foreshadows a future where engineering is deeply intertwined with art and human-centric design.
 
 The showcase marked not just the culmination of a project but the beginning of an ongoing journey of innovation, personal growth, and exploration. Inspired by the feedback and armed with new insights, I am eager to further develop and refine "Poetry in Motion," exploring its potential applications beyond the academic environment and into broader societal contexts.
 
